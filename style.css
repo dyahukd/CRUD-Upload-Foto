@@ -1,0 +1,44 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #ffe8f4;
+}
+
+.navbar-pink {
+    background-color: #ff9ad5;
+}
+
+.container-box {
+    background: #fff;
+    border-radius: 16px;
+    padding: 20px;
+    margin-top: 25px;
+    box-shadow: 0 6px 20px rgba(255,135,189,0.25);
+}
+
+.table thead {
+    background: #ffb6de;
+    color: white;
+}
+
+.table tbody tr:hover {
+    background: #ffe4f5;
+}
+
+.btn-pink {
+    background-color: #ff8ac8;
+    color: #fff;
+    border: none;
+}
+
+.btn-pink:hover {
+    background-color: #ff5cae;
+}
+
+img.foto {
+    width: 65px;
+    height: 65px;
+    border-radius: 12px;
+    object-fit: cover;
+    background: #fff;
+    border: 2px solid #ff9ad5;
+}
